@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "mssa_5.1.3": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
